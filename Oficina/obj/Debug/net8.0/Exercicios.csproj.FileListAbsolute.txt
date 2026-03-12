@@ -1,0 +1,14 @@
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/bin/Debug/net8.0/Exercicios
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/bin/Debug/net8.0/Exercicios.deps.json
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/bin/Debug/net8.0/Exercicios.runtimeconfig.json
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/bin/Debug/net8.0/Exercicios.dll
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/bin/Debug/net8.0/Exercicios.pdb
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/Exercicios.AssemblyInfoInputs.cache
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/Exercicios.AssemblyInfo.cs
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/Exercicios.csproj.CoreCompileInputs.cache
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/Exercicios.dll
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/refint/Exercicios.dll
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/Exercicios.pdb
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/Exercicios.genruntimeconfig.cache
+/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/Debug/net8.0/ref/Exercicios.dll
