@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/Exercicios.csproj",
+      "projectUniqueName": "/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/Oficina/Exercicios.csproj",
       "projectName": "Exercicios",
-      "projectPath": "/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/Exercicios.csproj",
+      "projectPath": "/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/Oficina/Exercicios.csproj",
       "packagesPath": "/home/oriyon/.nuget/packages/",
-      "outputPath": "/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/obj/",
+      "outputPath": "/home/oriyon/Documentos/Programas Pessoais/Programas C#/03 - Orientação a Objetos Avançada/Exercicios/Oficina/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/oriyon/.nuget/NuGet/NuGet.Config"
